@@ -1,10 +1,8 @@
 (* OCaml Boolean Formulae & SAT *)
 
-(* To load this file into the OCaml interpreter, type
-
-   #use "boolean.ml"
-
-   at the OCaml prompt
+(* To load this file into the OCaml interpreter, 
+	type
+	#use "boolean.ml" at the OCaml prompt
 *)
 
 type formula =
